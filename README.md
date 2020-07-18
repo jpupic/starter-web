@@ -13,3 +13,5 @@ pieace of cake
 ## Description
 
 Course git project
+
+## Copyright
