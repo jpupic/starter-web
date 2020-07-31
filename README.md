@@ -21,4 +21,4 @@ Course git project
 
 ## Copyright
 
-T
+2020 Git Training
